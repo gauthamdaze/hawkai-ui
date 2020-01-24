@@ -18,6 +18,7 @@ const Charts = ({match}) => (
             <AppSidebar/>
             <div className="app-main__outer">
                 <div className="app-main__inner">
+                    
 
                     {/* Charts */}
 
