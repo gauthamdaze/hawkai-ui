@@ -83,5 +83,10 @@ export const AdministrationNav = [
                 to: '#/components/maps',
             },
         ],
-    }
+    },  {
+        icon: 'pe-7s-user',
+        label: 'Add-User',
+        to: '#/addUser',
+    },
+
 ];
